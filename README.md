@@ -1,6 +1,6 @@
 # Instacart Basket Analysis
 ## Project Summary
-This repository showcases an exploratory analysis of Instacart's sales data, focusing on identifying customer purchasing patterns. As an analyst for Instacart, a leading online grocery platform, the goal is to uncover insights that can guide a more effective marketing strategy. The analysis delves into the diverse customer base and their shopping behaviors, aiming to segment customers into distinct groups. These findings will enable Instacart to design targeted marketing campaigns that align with specific customer profiles, enhancing engagement and boosting product sales.
+Instacart is a leading online grocery store platform who wants to uncover data-driven insights that will help guide a more effectvie marketing strategy. The analysis delves into the diverse customer base and their shopping behaviors, aiming to segment customers into distinct groups. These findings will enable Instacart to design targeted marketing campaigns that align with specific customer profiles, enhancing engagement and boosting product sales.
 ## Key Questions
 Are there particular times during the day where customers spend more money?
 
